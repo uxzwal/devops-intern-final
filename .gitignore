@@ -1,0 +1,8 @@
+.idea/
+.env
+*.pem
+*.key
+.DS_Store
+node_modules/
+__pycache__/
+*.log
